@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-color: rgb(92, 55, 8);
+    padding: 2rem 0;
+    color: white;
+}
+.section-1 {
+    padding-top: 2rem;
+    padding-left: 20rem;
+}
+.purpose {
+    color: rgb(92, 55, 8);
+    font-weight: bold;
+    font-family:sans-serif;
+    border: dashed rgb(92, 55, 8) ;
+    width: 40%;
+    height: 100px;
+}
+/* end .section-1 */
+.section-2 {
+    padding-top: 1rem;
+}
+h6, .date {
+    color: rgb(92, 55, 8);
+    font-weight: bolder;
+}
+h3 {
+    color: rgb(100, 100, 100);
+}
+.section-2-title {
+    padding-left: 22rem;
+    padding-bottom: 2rem;
+}
+.exp {
+    padding-bottom: 2rem;
+}
+.exp-bold {
+    font-weight: bolder;
+    font-size:30px;
+    color: rgb(92, 55, 8);
+}
+/* end section-2  */
+.range {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+.contact {
+    padding-top: 9rem;
+}
+.section-3-project {
+    padding-left: 22rem;
+    padding-bottom: 2rem;
+}
+.projects {
+    padding-bottom: 2rem;
+}
+.project-bold {
+    font-weight: bolder;
+    font-size:20px;
+    color: rgb(92, 55, 8);
+}
